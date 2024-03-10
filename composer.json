@@ -1,12 +1,12 @@
 {
-    "name": "lexian-droid/laravel-motd",
+    "name": "lexiandev/laravel-motd",
     "description": "Display MOTD messages to your users.",
     "keywords": [
-        "lexian-droid",
+        "lexiandev",
         "laravel",
         "laravel-motd"
     ],
-    "homepage": "https://github.com/lexian-droid/laravel-motd",
+    "homepage": "https://github.com/lexiandev/laravel-motd",
     "license": "MIT",
     "authors": [
         {
@@ -35,13 +35,13 @@
     },
     "autoload": {
         "psr-4": {
-            "lexian-droid\\Motd\\": "src/",
-            "lexian-droid\\Motd\\Database\\Factories\\": "database/factories/"
+            "Lexiandev\\Motd\\": "src/",
+            "Lexiandev\\Motd\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "lexian-droid\\Motd\\Tests\\": "tests/",
+            "Lexiandev\\Motd\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
     },
@@ -73,10 +73,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "lexian-droid\\Motd\\MotdServiceProvider"
+                "Lexiandev\\Motd\\MotdServiceProvider"
             ],
             "aliases": {
-                "Motd": "lexian-droid\\Motd\\Facades\\Motd"
+                "Motd": "Lexiandev\\Motd\\Facades\\Motd"
             }
         }
     },

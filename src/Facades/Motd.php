@@ -1,16 +1,16 @@
 <?php
 
-namespace lexian-droid\Motd\Facades;
+namespace Lexiandev\Motd\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \lexian-droid\Motd\Motd
+ * @see \Lexiandev\Motd\Motd
  */
 class Motd extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \lexian-droid\Motd\Motd::class;
+        return \Lexiandev\Motd\Motd::class;
     }
 }

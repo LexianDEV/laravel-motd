@@ -1,6 +1,6 @@
 <?php
 
-namespace lexian-droid\Motd\Commands;
+namespace Lexiandev\Motd\Commands;
 
 use Illuminate\Console\Command;
 

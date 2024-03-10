@@ -1,6 +1,6 @@
 <?php
 
-namespace lexian-droid\Motd\Models;
+namespace Lexiandev\Motd\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

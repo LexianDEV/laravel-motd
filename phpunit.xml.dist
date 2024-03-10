@@ -16,7 +16,7 @@
     backupStaticProperties="false"
 >
     <testsuites>
-        <testsuite name="lexian-droid Test Suite">
+        <testsuite name="Lexiandev Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
