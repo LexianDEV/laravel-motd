@@ -1,6 +1,6 @@
 <?php
 
-// config for Lexiandev/Motd
+// config for lexian-droid/Motd
 return [
     /**
      * The default text that will be displayed if no MOTD is set.

@@ -1,5 +1,5 @@
 <?php
 
-use Lexiandev\Motd\Tests\TestCase;
+use lexian-droid\Motd\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

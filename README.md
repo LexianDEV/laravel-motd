@@ -1,9 +1,9 @@
 # Display MOTD messages to your users.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lexiandev/laravel-motd.svg?style=flat-square)](https://packagist.org/packages/lexiandev/laravel-motd)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/lexiandev/laravel-motd/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/lexiandev/laravel-motd/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/lexiandev/laravel-motd/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/lexiandev/laravel-motd/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/lexiandev/laravel-motd.svg?style=flat-square)](https://packagist.org/packages/lexiandev/laravel-motd)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lexian-droid/laravel-motd.svg?style=flat-square)](https://packagist.org/packages/lexian-droid/laravel-motd)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/lexian-droid/laravel-motd/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/lexian-droid/laravel-motd/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/lexian-droid/laravel-motd/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/lexian-droid/laravel-motd/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/lexian-droid/laravel-motd.svg?style=flat-square)](https://packagist.org/packages/lexian-droid/laravel-motd)
 
 This is a simple package to display MOTD messages to your users, it can
 be used to display updates, maintenance messages, or any other message
@@ -17,7 +17,7 @@ and it'll return the **newest** message that is not expired.
 You can install the package via composer:
 
 ```bash
-composer require lexiandev/laravel-motd
+composer require lexian-droid/laravel-motd
 ```
 
 You can publish and run the migrations with:
@@ -72,7 +72,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Lexian-droid](https://github.com/lexiandev)
+- [Lexian-droid](https://github.com/lexian-droid)
 - [All Contributors](../../contributors)
 
 ## License

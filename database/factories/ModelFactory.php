@@ -1,6 +1,6 @@
 <?php
 
-namespace Lexiandev\Motd\Database\Factories;
+namespace lexian-droid\Motd\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

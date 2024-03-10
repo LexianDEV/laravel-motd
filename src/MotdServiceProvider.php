@@ -1,8 +1,8 @@
 <?php
 
-namespace Lexiandev\Motd;
+namespace lexian-droid\Motd;
 
-use Lexiandev\Motd\Commands\MotdCommand;
+use lexian-droid\Motd\Commands\MotdCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 

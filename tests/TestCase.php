@@ -1,9 +1,9 @@
 <?php
 
-namespace Lexiandev\Motd\Tests;
+namespace lexian-droid\Motd\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Lexiandev\Motd\MotdServiceProvider;
+use lexian-droid\Motd\MotdServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
@@ -13,7 +13,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Lexiandev\\Motd\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'lexian-droid\\Motd\\Database\\Factories\\'.class_basename($modelName).'Factory'
         );
     }
 
