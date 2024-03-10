@@ -19,6 +19,10 @@ class Motd extends Model
         'end_date',
     ];
 
+    protected $message;
+    protected $start_date;
+    protected $end_date;
+
     public function get()
     {
         $query = $this->where('start_date', '<=', now())
