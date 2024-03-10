@@ -2,9 +2,9 @@
 
 namespace Lexiandev\Motd;
 
+use Lexiandev\Motd\Commands\MotdCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lexiandev\Motd\Commands\MotdCommand;
 
 class MotdServiceProvider extends PackageServiceProvider
 {
