@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Lexiandev\Motd\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MotdCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-motd';
 
     public $description = 'My command';
 
