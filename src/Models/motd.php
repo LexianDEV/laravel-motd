@@ -20,7 +20,9 @@ class Motd extends Model
     ];
 
     protected $message;
+
     protected $start_date;
+
     protected $end_date;
 
     public function get()
