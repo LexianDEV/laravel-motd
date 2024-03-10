@@ -1,12 +1,12 @@
 {
-    "name": "ledxiandev/laravel-motd",
+    "name": "lexiandev/laravel-motd",
     "description": "Display MOTD messages to your users.",
     "keywords": [
         "lexiandev",
         "laravel",
         "laravel-motd"
     ],
-    "homepage": "https://github.com/ledxiandev/laravel-motd",
+    "homepage": "https://github.com/lexiandev/laravel-motd",
     "license": "MIT",
     "authors": [
         {
