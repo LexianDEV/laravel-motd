@@ -19,7 +19,7 @@ class MotdServiceProvider extends PackageServiceProvider
             ->name('laravel-motd')
             ->hasConfigFile()
             ->hasViews()
-            ->hasMigration('create_motds_table')
+            ->hasMigration('create_laravel-motd_table')
             ->hasCommand(MotdCommand::class);
     }
 }
