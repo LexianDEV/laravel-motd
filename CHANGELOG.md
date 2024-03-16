@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-motd` will be documented in this file.
 
+## 1.0.1 - 2024-03-16
+
+**Full Changelog**: https://github.com/LexianDEV/laravel-motd/compare/1.0.0...1.0.1
+
 ## 1,0,1 - 2024-03-15
 
 **Full Changelog**: https://github.com/LexianDEV/laravel-motd/compare/1.0.0...1,0,1
